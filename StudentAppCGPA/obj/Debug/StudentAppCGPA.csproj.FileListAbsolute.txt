@@ -1,0 +1,8 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\bin\Debug\StudentAppCGPA.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\bin\Debug\StudentAppCGPA.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\bin\Debug\StudentAppCGPA.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\obj\Debug\StudentAppCGPA.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\obj\Debug\StudentAppCGPA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\obj\Debug\StudentAppCGPA.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\obj\Debug\StudentAppCGPA.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\StudentAppCGPA\obj\Debug\StudentAppCGPA.pdb

@@ -1,0 +1,8 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\bin\Debug\MagicNumberCleanCode.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\bin\Debug\MagicNumberCleanCode.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\bin\Debug\MagicNumberCleanCode.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.pdb

@@ -1,0 +1,8 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\obj\Debug\ProductApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\ProductApp\obj\Debug\ProductApp.pdb
