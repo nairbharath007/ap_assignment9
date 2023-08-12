@@ -25,6 +25,6 @@ namespace SingleInheritancePOC
             teslaModelS.ChargeBattery();
             teslaModelS.StopEngine();
         }
-        }
     }
 }
+

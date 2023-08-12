@@ -6,3 +6,11 @@ C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\SingleInheritancePOC\obj
 C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.csproj.CoreCompileInputs.cache
 C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.exe
 C:\Users\Brave\Desktop\Aurionpro_training\Assignments\9\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\obj\Debug\SingleInheritancePOC.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\bin\Debug\SingleInheritancePOC.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\bin\Debug\SingleInheritancePOC.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\9\inheritance,this,magicnumber_folder\SingleInheritancePOC\bin\Debug\SingleInheritancePOC.pdb
